@@ -1,0 +1,14 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  color: "#D9D9D9"
+  image: assets/icons/threadhub-applogo.png
+
+  android_gravity: center
+  ios_content_mode: center 
+
+  android_12:
+    color: "#D9D9D9"
+    image: assets/icons/threadhub-applogo.png

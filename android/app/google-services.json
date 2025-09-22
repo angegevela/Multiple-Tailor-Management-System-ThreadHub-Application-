@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "164446608697",
+    "project_id": "auth-storage-threadhub",
+    "storage_bucket": "auth-storage-threadhub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164446608697:android:5707732825fa3d74ca9ce8",
+        "android_client_info": {
+          "package_name": "com.example.threadhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164446608697-soolilbqkuff1300glpacdgpcspvbs03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKI006cGFuRyIx1R7fZwPlWTethI7Wo1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164446608697-soolilbqkuff1300glpacdgpcspvbs03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "164446608697-amki2ja8n4spctg998ii74feic51bg37.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.threadhub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164446608697:android:961c599b7e70dd57ca9ce8",
+        "android_client_info": {
+          "package_name": "com.example.threadhub_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164446608697-1d90cevo2hqnfc4p39socl8e16meubso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.threadhub_system",
+            "certificate_hash": "3f31ee153bc66da5c43c3a1f3fe1db3227ca7dfa"
+          }
+        },
+        {
+          "client_id": "164446608697-soolilbqkuff1300glpacdgpcspvbs03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKI006cGFuRyIx1R7fZwPlWTethI7Wo1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164446608697-soolilbqkuff1300glpacdgpcspvbs03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "164446608697-amki2ja8n4spctg998ii74feic51bg37.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.threadhub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
